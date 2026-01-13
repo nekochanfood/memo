@@ -3,7 +3,7 @@
 ### 目次
 
 - [Boop(ing)](#booping)
-- [Claim(ing)](#claim)
+- [Claim(ing)](#claiming)
 - [Launch Pad](#launch-pad)
 - [Live Now](#live-now)
 - [Mutual](#mutual)
