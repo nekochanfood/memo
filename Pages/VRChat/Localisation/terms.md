@@ -7,6 +7,7 @@
 - [Launch Pad](#launch-pad)
 - [Live Now](#live-now)
 - [Mutual](#mutual)
+- [Product(s)](#products)
 - [Pronouns](#pronouns)
 
 ## Boop(ing)
@@ -114,6 +115,31 @@ JA: 共通のフレンドを見る
 ```
 
 参考: なし
+
+
+## Product(s)
+
+商品、製品を意味する言葉。
+
+VRChat では クリエイターエコノミ (CE) を通して購入者やサブスクライバーに提供されるものを指す言葉として使われる。
+
+"Product(s)"は「商品」とする。
+
+初期段階では「プロダクト」と翻訳していたが、後に変更された。
+売り手向けのコンテキストで翻訳するなら「製品」が適切だが、買い手向けの場合は「商品」になるという特徴がある。そのため、場合によっては「製品」と訳される可能性がある。（e.g., CE の管理画面のテキスト）
+
+```
+EN: Subscribe to this product.
+JA: この商品をサブスクライブする
+
+EN: View more details about this product
+JA: この商品の詳細を見る
+
+EN: Contains the following products:
+JA: 含まれる商品の一覧:
+```
+
+参考: https://discord.com/channels/1096246414603997194/1375303765770633226/1375316724945125497
 
 
 ## Pronouns
