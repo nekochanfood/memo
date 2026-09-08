@@ -84,6 +84,11 @@ JA: アイテム「{0}」をしまう
 
 "Item" は「アイテム」と翻訳する。
 
+```
+EN: Click to change which items are in your Action Menu.
+JA: クリックしてアクションメニュー内のアイテムを変更します。
+```
+
 参考: なし
 
 
@@ -135,6 +140,11 @@ JA: ダブルクリックで Live Now ページを開きます。
 2026.2.1 で Avatar Accessories 機能が追加され、アバターにアクセサリーを付けた状態を保存するものを Look と呼ぶようになった。
 
 "Look"は「コーデ」と翻訳する。
+
+```
+EN: Look changed to {0}
+JA: コーデを「{0}」に変更しました
+```
 
 参考: https://discord.com/channels/1096246414603997194/1494477405367308449
 
