@@ -4,6 +4,7 @@
 
 - [Boop(ing)](#booping)
 - [Claim(ing)](#claiming)
+- [Companion](#companion)
 - [Despawn](#despawn)
 - [Item](#item)
 - [Launch Pad](#launch-pad)
@@ -12,6 +13,7 @@
 - [Mutual](#mutual)
 - [Product](#product)
 - [Pronouns](#pronouns)
+- [Prop](#Prop)
 - [Respawn](#respawn)
 - [Spawn](#spawn)
 
@@ -57,6 +59,22 @@ JA: バンドルを受け取っています...
 ```
 
 参考: なし
+
+
+## Companion
+
+友、連れを意味する言葉。
+
+2025/10 ごろにアイテムとしてコンパニオンが追加され、2026.2.3 でアイテムのサブカテゴリとして登場し、翻訳可能になった。
+
+"Companion"は「オトモ」と翻訳する。
+
+```
+EN: Swap to this Companion
+JA: このオトモに切り替える
+```
+
+参考: https://discord.com/channels/1096246414603997194/1516965937016868936
 
 
 ## Despawn
@@ -216,6 +234,22 @@ JA: 代名詞は、他の人が会話の中であなたをどう呼ぶかの参�
 ```
 
 参考: https://discord.com/channels/1096246414603997194/1368046334556377219
+
+
+## Prop
+
+道具、~~支え~~を意味する言葉。
+
+2025.2.3 で追加されたアイテムの内部名であったが、2026.2.3 でサブカテゴリとして登場し、翻訳可能になった。
+
+"Prop"は「プロップ」と翻訳する。
+
+```
+EN: Props are turned off in this world
+JA: プロップはこのワールドでは使用できません
+```
+
+参考: https://discord.com/channels/1096246414603997194/1516966591189876777
 
 
 ## Respawn
