@@ -5,11 +5,12 @@
 - [Boop(ing)](#booping)
 - [Claim(ing)](#claiming)
 - [Despawn](#despawn)
+- [Item](#item)
 - [Launch Pad](#launch-pad)
 - [Live Now](#live-now)
 - [Look](#look)
 - [Mutual](#mutual)
-- [Product](#products)
+- [Product](#product)
 - [Pronouns](#pronouns)
 - [Respawn](#respawn)
 - [Spawn](#spawn)
@@ -116,13 +117,13 @@ JA: ダブルクリックで Live Now ページを開きます。
 参考: なし
 
 
-## Look(s)
+## Look
 
 外観、容姿を意味する言葉。
 
 2026.2.1 で Avatar Accessories 機能が追加され、アバターにアクセサリーを付けた状態を保存するものを Look と呼ぶようになった。
 
-"Look(s)"は「コーデ」と翻訳する。
+"Look"は「コーデ」と翻訳する。
 
 参考: https://discord.com/channels/1096246414603997194/1494477405367308449
 
@@ -149,7 +150,7 @@ JA: 共通のフレンドを見る
 参考: なし
 
 
-## Product(s)
+## Product
 
 商品、製品を意味する言葉。
 
